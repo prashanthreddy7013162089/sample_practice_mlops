@@ -1,2 +1,2 @@
-print("1main")
+print("1_main")
 print("2 feature")
