@@ -1,2 +1,4 @@
 Line 1
 "Conflicting change on main branch"
+
+"Modified line on feature branch"
