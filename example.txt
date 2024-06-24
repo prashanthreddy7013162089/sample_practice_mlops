@@ -1,6 +1,2 @@
 Line 1
-Line 2
-Line 3
-Additional line 1 on feature branch
-Additional line 2 on feature branch
-Additional line 3 on feature branch
+
