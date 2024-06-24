@@ -1,2 +1,3 @@
-print("hai")
-print("hi")
+
+print("bye")
+print("bi")
