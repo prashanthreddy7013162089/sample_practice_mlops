@@ -1,3 +1,2 @@
-
 print("bye")
 print("bi")
