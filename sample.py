@@ -1,2 +1,0 @@
-print("whatsapp")
-print("book")
